@@ -1,5 +1,5 @@
 shared:
-  image: alpine:3.14
+  image: bitnami/git:latest
   
 jobs:
   main:
